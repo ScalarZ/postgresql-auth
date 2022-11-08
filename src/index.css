@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+}
+input {
+  border: 1px solid rgb(214 211 209);
+}
+button {
+  padding: 2px 4px;
+  border: 1px solid rgb(214 211 209);
+}
